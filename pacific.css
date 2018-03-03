@@ -1,0 +1,100 @@
+/*
+Filename: pacific.css
+Date: 04/18/17
+Programmer: Laura Rains
+*/
+body {
+     font-family: "verdana";
+     background-color: #ffffff;
+     color: #666666;
+     background-image: url(background.jpg);
+}
+#wrapper {
+     width: 80%;
+     min-width: 700px;
+     max-width: 1024px;
+     box-shadow: 3px 3px 3px #333;        
+     margin-right: auto;
+     margin-left: auto;
+     background-color: #ffffff;
+}
+h1 {
+     font-family: "verdana";
+     line-height: 200%;    
+     background-color: #000033;
+     color: #ffffff;
+     background-image: url(sunset.jpg);
+     background-repeat: no-repeat;
+     padding-left: 20px;
+     padding-top: 72px;
+     margin-bottom: 0;
+} 
+h2 {
+     font-family: "verdana";
+     color: #3399cc;
+}
+h3 {
+     color: #000033;
+}
+nav {
+     font-weight: bold;
+     background-color: #90c7e3;
+     padding: 5px;
+}
+nav a { 
+     text-decoration: none;
+}
+dt {
+     font-weight: bold;
+     color: #000033;
+}
+main {
+     display: block;
+     padding: 20px;
+}
+footer {
+     font-size: .70em;
+     font-style: italic;
+     text-align: center;
+     padding: 10px;
+}
+.resort {
+     color: #000033;
+     font-size: 1.2em;
+     font-weight: bold;  
+}
+.homehero {
+     background-image: url('/../images/coast.jpg');
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     height: 300px;
+}
+.yurthero {
+     background-image: url('/../images/yurt.jpg');
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     height: 300px;
+}
+.trailhero {
+     background-image: url('/../images/trail.jpg');
+     background-size: 100px 100%;
+     background-repeat: no-repeat;
+     height: 300px;
+}
+
+          
+
+     
+         
+
+
+    
+     
+    
+    
+    
+             
+    
+
+    
+    
